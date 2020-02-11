@@ -19,6 +19,5 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  num=81
   square_root = √num
 end
